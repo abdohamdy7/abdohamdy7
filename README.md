@@ -3,10 +3,14 @@
 🚀 PhD Candidate in Computer Science in Khalifa University, Abu Dhabi, UAE.
 
 🧠 Research focused area: Risk-bounded Motion Planning
-🔧 Tools: Optimization, Algorithms, Control
+
+🔧 Tools: Optimization, Algorithms, Path Planning, Path Tracking Control
+
 🔧 SW Tools: ROS2, Carla Simulator, Python, PyTorch, TensorFlow  
+
 📊 Interests: AI-driven Motion Planning, Algorithms
 
+🌱 I’m currently learning more about algorithms, and optimization
 
 <!--
 **abdohamdy7/abdohamdy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
