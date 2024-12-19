@@ -14,7 +14,6 @@
 
 🌱 I’m currently learning more about algorithms, and optimization
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourrepo)
 
 
 <!--
